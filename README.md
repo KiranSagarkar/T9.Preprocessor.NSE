@@ -38,6 +38,6 @@ LZO Interface for the.NET platform. Written and compiled in CLI C++ as appearing
 5) LZ4  written by Milosz Krajewski and released under BSD-2 License
 https://github.com/MiloszKrajewski/lz4net
 
-Compilation : VS2017 community edition or higher
-output path \reliablesoftware\int
+Compilation : VS2017 community edition or higher.
+Output path \reliablesoftware\int
 
