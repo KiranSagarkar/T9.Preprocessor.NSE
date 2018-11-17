@@ -1,15 +1,49 @@
 ﻿//-----------------------------------------------------------------------------------------------------
 
-#region Header
+#region Copyright & License
 
-//-----------------------------------------------------------------------------------------------------
+/*
 
-// GPL 2 notice and credits
+T9.DeCompression.LZO.cs
+LZO Interface for the.NET platform. Written and compiled in CLI C++
 
-//-----------------------------------------------------------------------------------------------------
+Copyright(C) Reliable Software Systems Pvt.Ltd.www.reliable.co.in <2018>  Author: Kiran Sagarkar
 
-#endregion Header
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
 
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program.If not, see<https://www.gnu.org/licenses/>.
+
+External Dependencies: LZO 2.10 and msvcr100.dll 
+
+Code is based on https://archive.codeplex.com/?p=lzohelper
+LZO Interface for the.NET platform. Written and compiled in CLI C++
+LZO Compression Library is written by Markus F.X.J.Oberhumer http://www.oberhumer.com/opensource/lzo/
+Distributed under the terms of the GNU General Public License (GPL v2+).
+Please read contents of file LICENSE
+
+Deployment: lzo2.dll or lzo2_64.dll with correct msvcr100.dll 
+
+Additional details about msvcr100.dll
+msvcr100.dll is a part of Microsoft Visual C++ and is required to run programs developed with Visual C++.
+
+If it, for some reason, doesn't work by just replacing the file, you might need to reinstall the Microsoft visual C++ 2010 Redistributable package.
+
+If using a 32bit (x86) Windows system, install the 32bit (x86) version.
+If using a 64bit (x64) Windows system, install both the 32bit (x86), and the 64bit (x64) versions.
+
+Available for download from Microsoft Download Center
+*/
+
+#endregion Header 
 //-----------------------------------------------------------------------------------------------------
 
 using System;
