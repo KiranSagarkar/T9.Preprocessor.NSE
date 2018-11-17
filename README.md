@@ -25,7 +25,7 @@ GNU General Public License for more details.
 You should have received a copy of the GNU General Public License
 along with this program.If not, see<https://www.gnu.org/licenses/>.
 
-External Dependencies:
+External Dependencies: (required to be in \r2\ext)
 
 1) IniParser writen by Ricardo Amores Hernández and released under MIT License
 https://github.com/rickyah/ini-parser 
