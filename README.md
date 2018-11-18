@@ -41,3 +41,6 @@ https://github.com/MiloszKrajewski/lz4net
 Compilation : VS2017 community edition or higher.
 Output path \reliablesoftware\int
 
+Please take
+https://github.com/KiranSagarkar/R2.Sockets.Net
+
